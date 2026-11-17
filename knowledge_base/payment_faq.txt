@@ -1,0 +1,1 @@
+If a payment is declined, verify the billing details and contact your bank before retrying. Never send full card numbers or security codes to support. Contact support if a charge posts twice.
